@@ -1,52 +1,40 @@
 # DevSearch
-Sourcode and Resources for Django 2021 Course
 
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
+It is a website that is made by django and restframework that a developer can register and share his or her projects in and be in contact with other developers
+
+This project is designed by Dennis Ivanov, the tutor of the django course and I built it again with the course and It was a fantastic experience for me in django and covered all of the things that I wanted to know about django.
+You can find his course in Udemy as well too.
+
+## Features
+- *sign in as a developer*
+- *share your projects*
+- *comment to other projects and vote them*
+- *message any developer you want and contact with them*
+- *API that other projects and websites can use to use this informations like so many famous website like YouTube and FaceBook and ...*
+- *welcome message from the email of the host to any new users*
+- *you can change your password through the link that is sent by the host's email*
+- *and so many other things ...*
+
+## Technologies that is used in this project
+- *Django*
+- *Rest Framework*
+
+<br />
+
+Thanks Dennis, it was great!!
 
 
-# Installation
-* 1 - clone repo https://github.com/divanov11/Django-2021
-* 2 - create a virtual environment and activate
-*  - pip install virtualenv
-*  - virtualenv envname
-*  - envname\scripts\activate
-* 3 - cd into project "cd django-2021"
-* 4 - pip install -r requirements.txt
-* 5 - python manage.py runserver
-
-
-
-# Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
-
-# Course Overview
-* Basic Djagno Overview
-* Database Design and Models
-* Static Files
-* User Registration & Authenticaiton
-* Search
-* Pagination
-* Building an API with Django REST Framework (DRF)
-* Deployment
-
-# Tech Stack
-* Django
-* Postgres
-* Django REST Framework
-
-# Home Page
+# Website pages
+* ## Home Page
 <img src="./resources/images/Devsearch Home.jpg">  
 
 
-# Projects Page
+* ## Projects Page
 <img src="./resources/images/DevSearch Projects.jpg">  
 
-# Profile Page
+* ## Profile Page
 <img src="./resources/images/Devsearch Profile.jpg">  
 
-# User Inbox
+* ## User Inbox
 <img src="./resources/images/Devsearch Inbox.jpg">  
 
